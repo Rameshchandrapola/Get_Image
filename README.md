@@ -1,9 +1,11 @@
-##[Get Image]()
+## [Get Image]()
 It's an Image generator from your search results.
-###[Demo]()
+[Website_link]()
+
+### [Demo]()
 ![](https://user-images.githubusercontent.com/76244600/144753825-56dd3529-5017-488f-b0f1-16866ca582ee.png)
 
-###Features:
+### Features:
 - A complete Working prototype.
 - Responsive.
 - Search bar.
@@ -19,7 +21,7 @@ It's an Image generator from your search results.
 - JavaScript
 - [Unsplash API](https://unsplash.com/developers) (The Unsplash API is a modern JSON API that surfaces all of the info you’ll need to build any experience for your users.)
 
-##Connect with me
+## Connect with me
 - [Twitter](https://twitter.com/POLARAMESHCHAN2)
 - [Instagram](https://www.instagram.com/polarameshchandra/)
 - [LinkedIn](https://www.linkedin.com/in/pola-ramesh-chandra-b78347202/)
