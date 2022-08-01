@@ -15,6 +15,7 @@ It's an Image generator from your search results.
 - Load more images option.
 - Easy to use.
 - Social media support.
+- Enlarge images on hover.
 
 ### Built using
 - HTML
