@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 * {
   margin: 0px;
   padding: 0;
@@ -12,7 +14,7 @@ body {
 header {
   width: 100%;
   height: 100px;
-  background-color: #3b99a0;
+  background-color: #23bbc6cf;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -52,20 +54,22 @@ h1 {
   margin: 20px 0 0 100px;
   font-size: bold;
   color: #2718c9;
+  font-family: 'Comfortaa', cursive;
 }
 #searchbtn {
   width: 10%;
   height: 50px;
-  background-color: #3b99a0;
+  background-color: #23bbc6cf;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 10px;
   margin: 20px 0 0 0;
   border-radius: 0 10px 10px 0;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 25px;
   cursor: pointer;
+  font-family: 'Work Sans', sans-serif;
 }
 .search_form {
   padding: 2rem;
@@ -80,6 +84,10 @@ h1 {
 }
 input[type="text"] {
   font-size: 28px;
+}
+input:focus{
+  box-shadow: 0px 0px 8px orange;
+  border: 2px solid rgb(208, 142, 20);
 }
 .search_result {
   width: 1280px;
@@ -133,10 +141,10 @@ input[type="text"] {
 }
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background: #3b99a0;
+  background: #23bbc6cf;
 }
 ::-webkit-scrollbar {
-  width: 12px;
+  width: 8px;
 }
 /* footer */
 .footer {
